@@ -6,9 +6,6 @@ export default function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="app-logo" alt="logo" />
-        <a href="#" className="btn btn-primary">
-          Button Check{" "}
-        </a>
       </header>
     </div>
   );
