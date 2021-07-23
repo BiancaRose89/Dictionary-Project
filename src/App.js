@@ -13,7 +13,7 @@ export default function App() {
           <Dictionary defaultKeyword="wine" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Bianca</small>
+          <small>Coded by Bianca Schwartz</small>
         </footer>
       </div>
     </div>
